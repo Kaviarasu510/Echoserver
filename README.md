@@ -62,7 +62,7 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### echo server output
-![image]"C:\Users\SEC\VirtualBox VMs\mine\VirtualBox_mine_05_03_2024_01_16_11.png"
+![image]("C:\Users\SEC\VirtualBox VMs\mine\VirtualBox_mine_05_03_2024_01_16_11.png")
 
 ## RESULT:
 The program is executed successfully

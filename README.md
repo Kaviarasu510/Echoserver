@@ -62,7 +62,11 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### echo server output
-![image]("C:\Users\SEC\VirtualBox VMs\mine\VirtualBox_mine_05_03_2024_01_16_11.png")
+![VirtualBox_mine_05_03_2024_01_16_11](https://github.com/Kaviarasu510/Echoserver/assets/119392695/227ac3d0-b052-457a-acce-dd59e7eb7e49)
+
+### echo client output
+![VirtualBox_mine_05_03_2024_01_16_19](https://github.com/Kaviarasu510/Echoserver/assets/119392695/f4f303ff-17d0-443e-93ec-b7e8127224b8)
 
 ## RESULT:
 The program is executed successfully
+

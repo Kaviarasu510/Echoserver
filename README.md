@@ -22,10 +22,10 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-###Server code
 
+### Server code
 
-# echo-server.py
+## echo-server.py
 
 import socket
 

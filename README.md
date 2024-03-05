@@ -27,6 +27,8 @@ Testing the server and client
 
 # Server code
 
+
+
 ### echo-server.py
 ```
 import socket
@@ -64,10 +66,12 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### echo server output
-![VirtualBox_mine_05_03_2024_01_16_11](https://github.com/Kaviarasu510/Echoserver/assets/119392695/227ac3d0-b052-457a-acce-dd59e7eb7e49)
+![VirtualBox_mine_05_03_2024_01_16_11](https://github.com/Kaviarasu510/Echoserver/assets/119392695/1177b9da-2699-4945-867a-0dc191c8fac7)
+
 
 ### echo client output
-![VirtualBox_mine_05_03_2024_01_16_19](https://github.com/Kaviarasu510/Echoserver/assets/119392695/f4f303ff-17d0-443e-93ec-b7e8127224b8)
+![VirtualBox_mine_05_03_2024_01_16_19](https://github.com/Kaviarasu510/Echoserver/assets/119392695/4d4dff8c-b7b1-4e2e-90d0-d4c1fba4f697)
+
 
 ## RESULT:
 The program is executed successfully

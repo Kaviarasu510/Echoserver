@@ -24,7 +24,11 @@ Testing the server and client
 
 ## PROGRAM:
 
+
+
 # Server code
+
+
 
 ### echo-server.py
 ```
@@ -61,6 +65,7 @@ print(f"Received {data!r}")
 
 
 
+
 ## OUTPUT:
 ### echo server output
 ![VirtualBox_mine_05_03_2024_01_16_11](https://github.com/Kaviarasu510/Echoserver/assets/119392695/1177b9da-2699-4945-867a-0dc191c8fac7)
@@ -71,5 +76,5 @@ print(f"Received {data!r}")
 
 
 ## RESULT:
-The program is executed successfully
+The program is executed successfully.
 

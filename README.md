@@ -1,9 +1,7 @@
 # Ethicka-Hacking-Techniques---19CS417-
-
 Ethicka Hacking Techniques - 19CS417 
 
 # Echoserver
-
 Echo server and client using python socket
 
 # AIM:
@@ -27,7 +25,6 @@ Testing the server and client
 ## PROGRAM:
 
 # Server code
-
 
 ### echo-server.py
 ```
